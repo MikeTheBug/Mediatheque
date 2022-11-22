@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mediatheque</string>
+    <string name="password">password</string>
+    <string name="mail_address">mail address</string>
+</resources>
